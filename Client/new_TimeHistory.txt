@@ -1,0 +1,9 @@
+Data (2020/04/30 15:48:57): Time History: TimeHistory:
+Device = device1, 
+Description = description1, 
+Date = 2020, 
+Channel Number = 1, 
+Unit = unit1, 
+Resolution = 15.6 
+Sensitivity = 10.2
+
