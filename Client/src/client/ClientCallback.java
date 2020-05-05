@@ -2,7 +2,6 @@ package client;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
-
 import interfaces.ICallback;
 
 public class ClientCallback 
@@ -11,9 +10,7 @@ public class ClientCallback
 	public ClientCallback() throws RemoteException {
 		super();
 	}
-	public void komunikuj(String nick, String text) throws RemoteException {
-		System.out.println("\r\n" + "message received: " + text);   
-	}	
-
-	
+	public void inform(String nick, String text) throws RemoteException {
+		System.out.println(nick + " wrote: " + text);   
+	}
 }

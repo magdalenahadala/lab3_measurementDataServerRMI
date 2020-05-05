@@ -1,0 +1,11 @@
+Date (2020/05/04 15:49:26): Spectrum: 
+Spectrum:
+Device = device2, 
+Description = description2, 
+Date = 2020, 
+Channel Number = 1, 
+Unit = unit2, 
+Resolution = 15.6, 
+Buffer = null,  
+Scailing = 1
+

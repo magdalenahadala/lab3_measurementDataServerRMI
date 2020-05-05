@@ -1,0 +1,10 @@
+Date (2020/05/05 10:58:39): Time History: [TimeHistory:
+Device = Device1, 
+Description = Description1, 
+Date = 2020, 
+Channel Number = 1, 
+Unit = unit1, 
+Resolution = 15.5, 
+Buffer = null,  
+Sensitivity = 10.5]
+
